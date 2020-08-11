@@ -1,6 +1,6 @@
-### Welcome to my GitHub Profile
+### Welcome!
 
-Some cool projects I have worked on:
+Here are some cool projects I have worked on:
 
   * [OSU's Energy Dashboard](https://dashboard.sustainability.oregonstate.edu/)
   * [OSU's Carbon Footprint Calculator](https://myco2.sustainability.oregonstate.edu/)
